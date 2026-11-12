@@ -1,7 +1,14 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Welcome%20to%20shamjosephraj%27s%20Github%20</>&fontAlign=50&fontAlignY=42&color=0:0b0c10,50:1f2833,100:0b0c10&stroke=45a29e&fontColor=ffffff&fontSize=32" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20shamjosephraj%27s%20Github%20</>&fontAlign=50&fontAlignY=42&color=0:0b0c10,50:1f2833,100:0b0c10&stroke=45a29e&fontColor=ffffff&fontSize=30" width="100%" />
+
+<br/>
+
+<!-- DYNAMIC TYPING SUBTITLE -->
+<a href="https://github.com/shamjoes">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=45A29E&center=true&vCenter=true&width=500&height=40&lines=B.E.+Computer+Science+Graduate;Embedded+Systems+Engineer;ARM7+(LPC2129)+%7C+Embedded+C;Data+Structures+%26+Linux+Toolchain" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -9,14 +16,14 @@
 <a href="https://linkedin.com">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:shamjosephraj@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://github.com/shamjoes">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:shamjosephraj@example.com">
-  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 <a href="https://github.com/shamjoes/mypreprocessor">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=gitbook&logoColor=white" />
 </a>
 
 </div>
@@ -42,6 +49,7 @@
         <li>칩 <b>ARM7TDMI (LPC2129) Microcontroller Programming</b></li>
         <li>⚙️ <b>Compiler Design & C Preprocessor Development</b></li>
         <li>🌐 <b>Data Structures, Algorithms & Linux Systems</b></li>
+        <li>📧 <b>Contact:</b> <a href="mailto:shamjosephraj@gmail.com">shamjosephraj@gmail.com</a></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -76,20 +84,12 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=shamjoes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamjoes&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamjoes&theme=tokyonight" width="48%" alt="GitHub Profile Stats" />
+<img src="https://streak-stats.demolab.com/?user=shamjoes&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamjoes&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamjoes&theme=tokyonight" width="98%" alt="Languages Stats" />
 
 </div>
 
